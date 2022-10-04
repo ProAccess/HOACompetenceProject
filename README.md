@@ -1,11 +1,6 @@
 
-<img src="./images-md/makemyhoaok%20logo.png" data-v_padding=".15in" data-position="center" data-cap_text_align="center" data-cap_text_size="small" data-cap_text_style="italic" data-cap_width="70%" data-cap_h_position="center" style="width:50%" />
 
-*Note, language in the examples is for California, one of the states
-leading the nation in community association legislation. But there is no
-reason a program like this couldn’t be adopted by any state. If you have
-suggestions particular to another state, just say so. We’ll create a new
-folder for your state so we can track how legislation would differ.*
+<img src="./images-md/makemyhoaok%20logo.png" data-v_padding=".15in" data-position="center" style="width:30%" />
 
 <figure>
 <img src="images-md/website-intro-animation.gif" data-v_padding=".15in" data-position="center" data-cap_text_style="italic" data-cap_position="below" data-cap_width="95%" data-cap_h_position="center" style="width:100%" alt="" /><figcaption aria-hidden="true"></figcaption>
