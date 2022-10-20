@@ -23,7 +23,7 @@ consequences of actions or inaction.
 <figure>
 <img src="./images-md/availability-curve-500.png"
 data-position="float-right" data-pdf_adjust_lines="12"
-style="width:50.0%"
+style="width:50%"
 alt="Pool of qualified candidates varies with community size" />
 <figcaption aria-hidden="true">Pool of qualified candidates varies with
 community size</figcaption>
@@ -108,7 +108,7 @@ better.*<a name="incent-education"></a>
 <figure>
 <img src="./images-md/logo-bccad-500.jpg" data-position="float-right"
 data-cap_position="below" data-cap_h_position="center"
-data-cap_text_align="center" style="width:30.0%" alt="Possible logo" />
+data-cap_text_align="center" style="width:30%" alt="Possible logo" />
 <figcaption aria-hidden="true">Possible logo</figcaption>
 </figure>
 
@@ -166,7 +166,7 @@ Civil Code Section 6200 to Division 4, Part 5, Chapter 12) that would
     identified as such on any election ballot or list of candidates.
 
 <figure>
-<img src="./images-md/cert-1000.png" style="width:65.0%"
+<img src="./images-md/cert-1000.png" style="width:65%"
 alt="Example certificate for a member or director who completes traiining or maintains continuing education requirements on rudiments of community association governance" />
 <figcaption aria-hidden="true">Example certificate for a member or
 director who completes traiining or maintains continuing education
@@ -259,7 +259,7 @@ to maintain qualifying status and thus help control dues.
 ### Benefits for community associations
 
 <img src="images-md/hammer-and-gavel-1000.png"
-data-position="float-left" style="width:50.0%" />
+data-position="float-left" style="width:50%" />
 
 An overall board COMPETENCE score or *rating* would be calculated for
 each community association, derived primarily from the frequency of
@@ -347,10 +347,10 @@ prominence and reputations for excellence.
 |:--------------------------------------------------------:|:------------------------------------------------------------------------:|:---------------------------------------------------------:|
 | <img src="./images-md/cai-logo-500.png" data-columns="3" 
    data-cap_h_position="left" data-cap_text_align="left"   
-        data-cap_width="60%" style="width:75.0%" />        |         <img src="./images-md/echo-logo-500.png" data-columns="3"        
-                                                            data-cap_h_position="center" data-cap_width="60%" style="width:75.0%" />  | <img src="./images-md/cacm-logo-500.png" data-columns="3" 
+        data-cap_width="60%" style="width:75%" />        |         <img src="./images-md/echo-logo-500.png" data-columns="3"        
+                                                            data-cap_h_position="center" data-cap_width="60%" style="width:75%" />  | <img src="./images-md/cacm-logo-500.png" data-columns="3" 
                                                                                                                                          data-cap_h_position="right" data-cap_text_align="right"  
-                                                                                                                                              data-cap_width="50%" style="width:55.0%" />         |
+                                                                                                                                              data-cap_width="50%" style="width:55%" />         |
 
 ## Other benefits of the program
 
@@ -367,7 +367,7 @@ on the board by qualified directors and the effect of directors’
 education on dues, likely to induce increased participation.
 
 <img src="images-md/ballot-mailer.jpg" data-position="float-right"
-style="width:50.0%" />
+style="width:50%" />
 
 Also, the need and techniques for recruitment, training, motivation and
 retention of volunteers should be part of directors’ education within
@@ -438,7 +438,7 @@ many community associations. Therefore, requirements for director
 certification are reduced from those for manager.
 
 <img src="images-md/example-question.png" data-position="float-right"
-style="width:65.0%" />
+style="width:65%" />
 
 The number of questions and required percentage of correct answers would
 be determined by BCCAD, the objective being to ensure knowledge of
@@ -1075,10 +1075,10 @@ Example documents illustrating compliance appear below.
 Examples that follow illustrate conforming election materials.  
 
 <img src="images-md/example-bios.png" data-position="center"
-style="width:95.0%" />
+style="width:95%" />
 
 <img src="images-md/example-ballot.png" data-position="center"
-style="width:95.0%" />
+style="width:95%" />
 
 # Exhibit C — Requirements for disclosures of board rating
 
@@ -1104,7 +1104,7 @@ Section 5310 (a)(12) would be renumbered as 5310 (a)(13) and new
 <a name="example_hoa_rating"></a>
 
 <img src="images-md/example-hoa-rating-cert.png" data-position="center"
-style="width:95.0%" />
+style="width:95%" />
 
 ## Footnotes
 
