@@ -343,14 +343,8 @@ prominence and reputations for excellence.
 
 <br/>
 
-|                                                          |                                                                          |                                                           |
-|:--------------------------------------------------------:|:------------------------------------------------------------------------:|:---------------------------------------------------------:|
-| <img src="./images-md/cai-logo-500.png" data-columns="3" 
-   data-cap_h_position="left" data-cap_text_align="left"   
-        data-cap_width="60%" style="width:75%" />        |         <img src="./images-md/echo-logo-500.png" data-columns="3"        
-                                                            data-cap_h_position="center" data-cap_width="60%" style="width:75%" />  | <img src="./images-md/cacm-logo-500.png" data-columns="3" 
-                                                                                                                                         data-cap_h_position="right" data-cap_text_align="right"  
-                                                                                                                                              data-cap_width="50%" style="width:55%" />         |
+<img src="./images-md/Three-logos.png" data-position="center"
+style="width:80%" />
 
 ## Other benefits of the program
 
