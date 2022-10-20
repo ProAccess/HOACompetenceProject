@@ -630,10 +630,12 @@ presentation in the five-star format, e.g., a rating of 2.9 would be
 presented as
 
 <img src="images-md/2-9-stars-500.png" data-position="center"
-width="170" /> A board’s COMPETENCE rating would be determined by a
-formula that may be adjusted by BCCAD from time to time as relevant
-factors become apparent. Factors to be integrated into the rating
-formula include those most heavily associated with a healthy community.
+width="170" />
+
+A board’s COMPETENCE rating would be determined by a formula that may be
+adjusted by BCCAD from time to time as relevant factors become apparent.
+Factors to be integrated into the rating formula include those most
+heavily associated with a healthy community.
 
 The initial formula is as follows:
 
