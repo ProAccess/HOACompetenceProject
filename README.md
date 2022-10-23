@@ -1,17 +1,15 @@
+<p align="center"><img src="./images-md/makemyhoaok%20logo.png" width="30.0%"></p><br />
+<img src="./images-md/space.png" width="100%" height="1px"><br />
 
-
-<img src="./images-md/makemyhoaok%20logo.png" data-v_padding=".15in" data-position="center" style="width:30%" />
-
-<figure>
-<img src="images-md/website-intro-animation.gif" data-v_padding=".15in" data-position="center" data-cap_text_style="italic" data-cap_position="below" data-cap_width="95%" data-cap_h_position="center" style="width:100%" alt="" /><figcaption aria-hidden="true"></figcaption>
-</figure>
+<p align="center"><img src="images-md/website-intro-animation.gif" width="100.0%"></p>
 
 This site is for you and others living in and serving community
 associations to participate in developing a solution to the long-term
 conundrum: **How to increase competence of volunteer Community
 Association directors without discouraging volunteerism.**
 
-<img src="./images-md/George%20headshot%202019.jpg" data-position="float-right" data-h_padding=".15in" data-v_padding=".1in" data-cap_position="below" data-cap_width="80%" data-cap_text_align="left" data-cap_text_style="italic" data-cap_h_position="center" width="90" />
+<img src="./images-md/George%20headshot%202019.jpg" width="14.423076923077%" align="right"><br />
+<img src="./images-md/space.png" width="100%" height="1px"><br />
 
 I’m George Markle. I’ve been involved with homeowners associations for
 the past four decades and authored the *Homeowners Association
@@ -59,7 +57,8 @@ use each other’s help on all aspects, including sanity checks, legal
 review, awareness of potential unexpected barriers and a raft of other
 surprises certain to arise. It’ll be an adventure!
 
-<img src="./images-md/Switch%20building.jpg" data-position="float-left" data-v_padding=".2in" style="width:45%" />
+<img src="./images-md/Switch%20building.jpg" width="45.0%" align="left"><br />
+<img src="./images-md/space.png" width="100%" height="1px"><br />
 
 ### Legislation won’t write itself
 
@@ -72,14 +71,14 @@ Isn’t it time?
 # Contact
 
 Actually… the <a href="https://www.makemyhoaok.org">website</a> with its
-<a href="https://github.com/ProAccess/MakeMyHOAok/forum">forum</a> is a
-great way for participating in this effort. But if you’re comfortable
-using GitHub, that will expedite development, particularly if you are an
-attorney willing to help draft legislation. (I’m not an attorney and
-while I’ve made a lay effort to adapt existing legislation for this, I’m
-sure it must seem pretty pathetic to an attorney experienced with
-crafting legislation. Please help(!) by helping to draft legislation to
-bring this program to reality.
+<a href="https://github.com/ProAccess/MakeMyHOAok/discussions">discussions
+forum</a> is a great way for participating in this effort. But if you’re
+comfortable using GitHub, that will expedite development, particularly
+if you are an attorney willing to help draft legislation. (I’m not an
+attorney and while I’ve made a lay effort to adapt existing legislation
+for this, I’m sure it must seem pretty pathetic to an attorney
+experienced with crafting legislation. Please help(!) by helping to
+draft legislation to bring this program to reality.
 
 While this program was created with the California legislature in mind,
 Community Association citizens and professionals and legislators across
@@ -89,4 +88,5 @@ accommodate a law, just label your changes particular to that state.
 
 This is a great opportunity for you to help shape future legislation.
 
-<img src="./images-md/makemyhoaok%20logo.png" data-cap_width="100%" data-v_padding=".2in" data-position="center" data-cap_text_style="italic" data-cap_position="above" data-cap_text_align="center" data-cap_h_position="center" style="width:25%" />
+<p align="center"><img src="./images-md/makemyhoaok%20logo.png" width="25.0%"></p><br />
+<img src="./images-md/space.png" width="100%" height="1px"><br />

@@ -20,14 +20,7 @@ consequences of actions or inaction.
 
 ## Pool of qualified candidates varies with community size
 
-<figure>
-<img src="./images-md/availability-curve-500.png"
-data-position="float-right" data-pdf_adjust_lines="12"
-style="width:50%"
-alt="Pool of qualified candidates varies with community size" />
-<figcaption aria-hidden="true">Pool of qualified candidates varies with
-community size</figcaption>
-</figure>
+<div id='fig_1' style='float:right; margin-right:0px; margin-left:auto; padding: 14.4px 0px 14.4px 14.4px ; width:50%; '><div style='width:90%; margin:auto; text-align:left; padding-bottom:14.4px'><span style='font-family:; font-style:plain; font-size:medium; '><span style='font-style:normal; font-weight:normal; '></span>Pool of qualified candidates varies with community size</span></div><img src='./images-md/availability-curve-500.png' width='100%'/></div>
 
 Populations of most towns and cities usually are sufficient to enable
 competitive elections and town- and city-councils with talents in
@@ -105,12 +98,7 @@ better.*<a name="incent-education"></a>
 
 # Rather than compel, we can *incent* education
 
-<figure>
-<img src="./images-md/logo-bccad-500.jpg" data-position="float-right"
-data-cap_position="below" data-cap_h_position="center"
-data-cap_text_align="center" style="width:30%" alt="Possible logo" />
-<figcaption aria-hidden="true">Possible logo</figcaption>
-</figure>
+<div id='fig_2' style='float:right; margin-right:0px; margin-left:auto; padding: 14.4px 0px 14.4px 14.4px ; width:30%; '><img src='./images-md/logo-bccad-500.jpg' width='100%'/><div style='width:90%; margin:auto; text-align:center; padding-top:14.4px'><span style='font-family:; font-style:plain; font-size:medium; '><span style='font-style:normal; font-weight:normal; '></span>Possible logo</span></div></div>
 
 I propose we create model legislation giving legislatures in each state
 guidance and a head start in crafting bills that would enable this
@@ -165,14 +153,7 @@ Civil Code Section 6200 to Division 4, Part 5, Chapter 12) that would
 -   require that any candidate certified under this program be
     identified as such on any election ballot or list of candidates.
 
-<figure>
-<img src="./images-md/cert-1000.png" style="width:65%"
-alt="Example certificate for a member or director who completes traiining or maintains continuing education requirements on rudiments of community association governance" />
-<figcaption aria-hidden="true">Example certificate for a member or
-director who completes traiining or maintains continuing education
-requirements on rudiments of community association
-governance</figcaption>
-</figure>
+<div id='fig_3' style='margin-right:auto; margin-left:auto; padding: 14.4px 0px 14.4px 0px ; width:65%; '><div style='width:90%; margin:auto; text-align:left; padding-bottom:14.4px'><span style='font-family:; font-style:plain; font-size:medium; '><span style='font-style:normal; font-weight:normal; '></span>Example certificate for a member or director who completes traiining or maintains continuing education requirements on rudiments of community association governance</span></div><img src='./images-md/cert-1000.png' width='100%'/></div>
 
 ## Director certifications could earn benefits for their associations
 
@@ -258,8 +239,7 @@ to maintain qualifying status and thus help control dues.
 
 ### Benefits for community associations
 
-<img src="images-md/hammer-and-gavel-1000.png"
-data-position="float-left" style="width:50%" />
+<div id='fig_4' style='float:left; margin-right:auto; margin-left:0px; padding: 14.4px 14.4px 14.4px 0px ; width:50%; '><img src='images-md/hammer-and-gavel-1000.png' width='100%'/></div>
 
 An overall board COMPETENCE score or *rating* would be calculated for
 each community association, derived primarily from the frequency of
@@ -343,8 +323,7 @@ prominence and reputations for excellence.
 
 <br/>
 
-<img src="./images-md/Three-logos.png" data-position="center"
-style="width:80%" />
+<div id='fig_5' style='margin-right:auto; margin-left:auto; padding: 14.4px 0px 14.4px 0px ; width:80%; '><img src='./images-md/Three-logos.png' width='100%'/></div>
 
 ## Other benefits of the program
 
@@ -360,8 +339,7 @@ increasingly aware of the potential cost of insufficient participation
 on the board by qualified directors and the effect of directors’
 education on dues, likely to induce increased participation.
 
-<img src="images-md/ballot-mailer.jpg" data-position="float-right"
-style="width:50%" />
+<div id='fig_6' style='float:right; margin-right:0px; margin-left:auto; padding: 14.4px 0px 14.4px 14.4px ; width:50%; '><img src='images-md/ballot-mailer.jpg' width='100%'/></div>
 
 Also, the need and techniques for recruitment, training, motivation and
 retention of volunteers should be part of directors’ education within
@@ -431,8 +409,7 @@ be a barrier for essential director recruitment — already difficult for
 many community associations. Therefore, requirements for director
 certification are reduced from those for manager.
 
-<img src="images-md/example-question.png" data-position="float-right"
-style="width:65%" />
+<div id='fig_7' style='float:right; margin-right:0px; margin-left:auto; padding: 14.4px 0px 14.4px 14.4px ; width:55%; '><img src='images-md/example-question.png' width='100%'/></div>
 
 The number of questions and required percentage of correct answers would
 be determined by BCCAD, the objective being to ensure knowledge of
@@ -623,8 +600,7 @@ The rating calculation includes normalization to a maximum of five for
 presentation in the five-star format, e.g., a rating of 2.9 would be
 presented as
 
-<img src="images-md/2-9-stars-500.png" data-position="center"
-width="170" />
+<div id='fig_8' style='margin-right:auto; margin-left:auto; padding: 14.4px 0px 14.4px 0px ; width:170px; '><img src='images-md/2-9-stars-500.png' width='100%'/></div>
 
 A board’s COMPETENCE rating would be determined by a formula that may be
 adjusted by BCCAD from time to time as relevant factors become apparent.
@@ -759,8 +735,7 @@ The above rating result would be rounded to, for example, 3.2 for the
 star-rating display on the BCCAD website and downloadable report in both
 stars and number format as in the following example. (See page 26.)
 
-<img src="images-md/3-2-stars-500.png" data-position="center"
-width="170" />
+<div id='fig_9' style='margin-right:auto; margin-left:auto; padding: 14.4px 0px 14.4px 0px ; width:170px; '><img src='images-md/3-2-stars-500.png' width='100%'/></div>
 
 #### Precision rating
 
@@ -1070,11 +1045,9 @@ Example documents illustrating compliance appear below.
 
 Examples that follow illustrate conforming election materials.  
 
-<img src="images-md/example-bios.png" data-position="center"
-style="width:95%" />
+<div id='fig_10' style='margin-right:auto; margin-left:auto; padding: 14.4px 0px 14.4px 0px ; width:95%; '><img src='images-md/example-bios.png' width='100%'/></div>
 
-<img src="images-md/example-ballot.png" data-position="center"
-style="width:95%" />
+<div id='fig_11' style='margin-right:auto; margin-left:auto; padding: 14.4px 0px 14.4px 0px ; width:95%; '><img src='images-md/example-ballot.png' width='100%'/></div>
 
 # Exhibit C — Requirements for disclosures of board rating
 
@@ -1099,8 +1072,7 @@ Section 5310 (a)(12) would be renumbered as 5310 (a)(13) and new
 
 <a name="example_hoa_rating"></a>
 
-<img src="images-md/example-hoa-rating-cert.png" data-position="center"
-style="width:95%" />
+<div id='fig_12' style='margin-right:auto; margin-left:auto; padding: 14.4px 0px 14.4px 0px ; width:95%; '><img src='images-md/example-hoa-rating-cert.png' width='100%'/></div>
 
 ## Footnotes
 
