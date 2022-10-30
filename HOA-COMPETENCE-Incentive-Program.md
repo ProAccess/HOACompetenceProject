@@ -20,7 +20,7 @@ consequences of actions or inaction.
 
 ## Pool of qualified candidates varies with community size
 
-<div id='fig_1' style='float:right; margin-right:0px; margin-left:auto; padding: 14.4px 0px 14.4px 14.4px ; width:50%; '><div style='width:90%; margin:auto; text-align:left; padding-bottom:14.4px'><span style='font-family:; font-style:plain; font-size:medium; '><span style='font-style:normal; font-weight:normal; '></span>Pool of qualified candidates varies with community size</span></div><img src='./images-md/availability-curve-500.png' width='100%'/></div>
+<p width="36.0%" align="center">Pool of qualified candidates varies with community size</p><br /><p align="center"><img src="./images-md/availability-curve-500.png" width="40.0%"></p>
 
 Populations of most towns and cities usually are sufficient to enable
 competitive elections and town- and city-councils with talents in
@@ -67,7 +67,7 @@ welfare. HOA directors also may profoundly affect HOA members’
 interests. Even so, while performance requirements exist, education
 requirements making directors aware of them are conspicuously absent.
 
-# Conventional licensing could hobble recruitment
+# Licensing requirement could hobble recruitment
 
 Consider this argument against making director education compulsory
 through legislation to require licensing:
@@ -90,6 +90,12 @@ program’s purpose: A would-be director may circumvent training or
 passing an exam simply by indicating in writing to the secretary they
 have read the governing documents and agree to uphold them.
 
+<img src="./images-md/logo-bccad-500.jpg" width="30.0%" align="right">
+
+<br />
+
+<p width="27.0%" align="right">Working logo</p><br />
+
 While this may have been a compromise to enable bill passage,
 foreseeably it could be fatal to the purpose of informed governance.
 
@@ -97,8 +103,6 @@ foreseeably it could be fatal to the purpose of informed governance.
 better.*<a name="incent-education"></a>
 
 # Rather than compel, we can *incent* education
-
-<div id='fig_2' style='float:right; margin-right:0px; margin-left:auto; padding: 14.4px 0px 14.4px 14.4px ; width:30%; '><img src='./images-md/logo-bccad-500.jpg' width='100%'/><div style='width:90%; margin:auto; text-align:center; padding-top:14.4px'><span style='font-family:; font-style:plain; font-size:medium; '><span style='font-style:normal; font-weight:normal; '></span>Possible logo</span></div></div>
 
 I propose we create model legislation giving legislatures in each state
 guidance and a head start in crafting bills that would enable this
@@ -153,9 +157,13 @@ Civil Code Section 6200 to Division 4, Part 5, Chapter 12) that would
 -   require that any candidate certified under this program be
     identified as such on any election ballot or list of candidates.
 
-<div id='fig_3' style='margin-right:auto; margin-left:auto; padding: 14.4px 0px 14.4px 0px ; width:65%; '><div style='width:90%; margin:auto; text-align:left; padding-bottom:14.4px'><span style='font-family:; font-style:plain; font-size:medium; '><span style='font-style:normal; font-weight:normal; '></span>Example certificate for a member or director who completes traiining or maintains continuing education requirements on rudiments of community association governance</span></div><img src='./images-md/cert-1000.png' width='100%'/></div>
-
 ## Director certifications could earn benefits for their associations
+
+<img src="./images-md/cert-1000.png" width="65.0%" align="left">
+
+<br />
+
+<p width="58.5%" align="left">Example certificate for a member or director who completes traiining or maintains continuing education requirements on rudiments of community association governance</p><br />
 
 The BCCAD would calculate and publish *ratings* for community
 associations based generally upon the proportion of its directors with
@@ -199,6 +207,8 @@ The training program overseen by BCCAD would be known as the
 complements the preferred means of attaining certification — through the
 [*Competency Based Education*](#comp_based_education)[^1] method.
 
+<p width="22.5%" align="right"></p><br /><img src="./images-md/competence.png" width="25.0%" align="right">
+
 The state would not *require* community association directors to
 participate in the <abbr>COMPETENCE<abbr> training or to be licensed;
 thus, community associations may continue to operate as they have
@@ -224,7 +234,7 @@ candidates.
 Any member’s certification status under this program would be verifiable
 via a website, as for verification of licenses and certifications for
 professionals and service providers (for California, those operating
-under Department of Consumer Affairs regulation). m_line
+under Department of Consumer Affairs regulation).
 
 <a name="multiple-benefits"></a>
 
@@ -239,7 +249,7 @@ to maintain qualifying status and thus help control dues.
 
 ### Benefits for community associations
 
-<div id='fig_4' style='float:left; margin-right:auto; margin-left:0px; padding: 14.4px 14.4px 14.4px 0px ; width:50%; '><img src='images-md/hammer-and-gavel-1000.png' width='100%'/></div>
+<p width="45.0%" align="left"></p><br /><img src="images-md/hammer-and-gavel-1000.png" width="50.0%" align="left">
 
 An overall board COMPETENCE score or *rating* would be calculated for
 each community association, derived primarily from the frequency of
@@ -321,9 +331,7 @@ substantial increase in membership. Those already at the forefront —
 CAI, ECHO, CACM — particularly should benefit given their established
 prominence and reputations for excellence.
 
-<br/>
-
-<div id='fig_5' style='margin-right:auto; margin-left:auto; padding: 14.4px 0px 14.4px 0px ; width:80%; '><img src='./images-md/Three-logos.png' width='100%'/></div>
+<p width="72.0%" align="center"></p><br /><p align="center"><img src="./images-md/Three-logos.png" width="80.0%"></p>
 
 ## Other benefits of the program
 
@@ -339,7 +347,7 @@ increasingly aware of the potential cost of insufficient participation
 on the board by qualified directors and the effect of directors’
 education on dues, likely to induce increased participation.
 
-<div id='fig_6' style='float:right; margin-right:0px; margin-left:auto; padding: 14.4px 0px 14.4px 14.4px ; width:50%; '><img src='images-md/ballot-mailer.jpg' width='100%'/></div>
+<p width="40.5%" align="right"></p><br /><img src="images-md/ballot-mailer.jpg" width="45.0%" align="right">
 
 Also, the need and techniques for recruitment, training, motivation and
 retention of volunteers should be part of directors’ education within
@@ -400,6 +408,8 @@ best practices.
 
 ### Regarding stringency of requirements for director certification
 
+<p width="49.5%" align="right"></p><br /><img src="images-md/example-question.png" width="55.0%" align="right">
+
 Director testing requirements are modeled somewhat after California
 Business and Professions Code §11502 — Certified Common Interest
 Development Manager Criteria. However, whereas testing for manager
@@ -408,8 +418,6 @@ advancement, testing for volunteers’ certification has the potential to
 be a barrier for essential director recruitment — already difficult for
 many community associations. Therefore, requirements for director
 certification are reduced from those for manager.
-
-<div id='fig_7' style='float:right; margin-right:0px; margin-left:auto; padding: 14.4px 0px 14.4px 14.4px ; width:55%; '><img src='images-md/example-question.png' width='100%'/></div>
 
 The number of questions and required percentage of correct answers would
 be determined by BCCAD, the objective being to ensure knowledge of
@@ -579,8 +587,7 @@ cannot be applied to certification in *subsequent* periods inasmuch as
 current certification implies exposure to and knowledge of *current*
 legislation and developments in best practices. However, the total
 number of credits accumulated by an individual may be published in the
-online database as an incentive toward continuing education m_line
-m_newpage
+online database as an incentive toward continuing education.
 
 <a name="star_rating_determination"></a>
 
@@ -600,7 +607,7 @@ The rating calculation includes normalization to a maximum of five for
 presentation in the five-star format, e.g., a rating of 2.9 would be
 presented as
 
-<div id='fig_8' style='margin-right:auto; margin-left:auto; padding: 14.4px 0px 14.4px 0px ; width:170px; '><img src='images-md/2-9-stars-500.png' width='100%'/></div>
+<p width="24.519230769231%" align="center"></p><br /><p align="center"><img src="images-md/2-9-stars-500.png" width="27.24358974359%"></p>
 
 A board’s COMPETENCE rating would be determined by a formula that may be
 adjusted by BCCAD from time to time as relevant factors become apparent.
@@ -735,7 +742,7 @@ The above rating result would be rounded to, for example, 3.2 for the
 star-rating display on the BCCAD website and downloadable report in both
 stars and number format as in the following example. (See page 26.)
 
-<div id='fig_9' style='margin-right:auto; margin-left:auto; padding: 14.4px 0px 14.4px 0px ; width:170px; '><img src='images-md/3-2-stars-500.png' width='100%'/></div>
+<p width="24.519230769231%" align="center"></p><br /><p align="center"><img src="images-md/3-2-stars-500.png" width="27.24358974359%"></p>
 
 #### Precision rating
 
@@ -835,13 +842,12 @@ and
 ### General Legislation for Community Associations
 
 For states that have not yet passed extensive legislation, I suggest
-examining statutes passed by [other
-states](https://www.cqstatetrack.com/texis/statetrack/insession/viewrpt/main.html?event=5304cf923b5b#CA)
-in a reference index compiled by Community Associations Institute.
-Inasmuch as California was early to adopt comprehensive legislation for
-common interest developments in the early 1980’s, which has since been
-refined, restated and proven, I suggest reviewing that first. This code
-for Common Interest Developments is also known as the [Davis-Stirling
+examining statutes passed by other\]states in a reference index compiled
+by Community Associations Institute. Inasmuch as California was early to
+adopt comprehensive legislation for common interest developments in the
+early 1980’s, which has since been refined, restated and proven, I
+suggest reviewing that first. This code for Common Interest Developments
+is also known as the [Davis-Stirling
 Act](https://leginfo.legislature.ca.gov/faces/codes_displayexpandedbranch.xhtml?tocCode=CIV&division=4.&title=&part=5.).
 California also has substantial [Corporations
 Code](https://leginfo.legislature.ca.gov/faces/codes_displayexpandedbranch.xhtml?tocCode=CORP&division=2.&title=1.&part=3.)
@@ -1045,9 +1051,9 @@ Example documents illustrating compliance appear below.
 
 Examples that follow illustrate conforming election materials.  
 
-<div id='fig_10' style='margin-right:auto; margin-left:auto; padding: 14.4px 0px 14.4px 0px ; width:95%; '><img src='images-md/example-bios.png' width='100%'/></div>
+<p width="90.0%" align="center"></p><br /><p align="center"><img src="images-md/example-bios.png" width="100.0%"></p>
 
-<div id='fig_11' style='margin-right:auto; margin-left:auto; padding: 14.4px 0px 14.4px 0px ; width:95%; '><img src='images-md/example-ballot.png' width='100%'/></div>
+<p width="90.0%" align="center"></p><br /><p align="center"><img src="images-md/example-ballot.png" width="100.0%"></p>
 
 # Exhibit C — Requirements for disclosures of board rating
 
@@ -1072,7 +1078,7 @@ Section 5310 (a)(12) would be renumbered as 5310 (a)(13) and new
 
 <a name="example_hoa_rating"></a>
 
-<div id='fig_12' style='margin-right:auto; margin-left:auto; padding: 14.4px 0px 14.4px 0px ; width:95%; '><img src='images-md/example-hoa-rating-cert.png' width='100%'/></div>
+<p width="90.0%" align="center"></p><br /><p align="center"><img src="images-md/example-hoa-rating-cert.png" width="100.0%"></p>
 
 ## Footnotes
 
