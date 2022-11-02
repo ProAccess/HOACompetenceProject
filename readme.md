@@ -7,15 +7,11 @@ associations to participate in developing a solution to the long-term
 conundrum: **How to increase competence of volunteer Community
 Association directors without discouraging volunteerism.**
 
-<<<<<<< Updated upstream
-<p align="left"><img src="./images-md/George%20headshot%202019.jpg" width="14.423076923077%" align="right"><img src="./images-md/1-px" width="15px" height="140.0px" align="right">I’m George Markle. I’ve been involved with homeowners associations for
-=======
 <figure><img src="./images-md/George%20headshot%202019.jpg" align="right" width="14.423076923077%"><img src="./images-md/1-px.png" width="14.4" height="0.0px" align="right"></figure>
 
 I’m George Markle. I’ve been involved with homeowners associations for
->>>>>>> Stashed changes
 the past four decades and authored the *Homeowners Association
-Directors’ Survival Kit*.</p>
+Directors’ Survival Kit*.
 
 Anyone involved professionally or on a board of a community association
 is familiar with the dearth of willing, qualified volunteers competent
