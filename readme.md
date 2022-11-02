@@ -1,14 +1,19 @@
-<p align="center"><img src="./images-md/makemyhoaok%20logo.png" width="30.0%"></p><br />
-<img src="./images-md/space.png" width="100%" height="1px"><br />
+<p align="center"><img src="./images-md/1-px.png" width="38.0%" height="0.0px" align="left"><img src="./images-md/1-px.png" width="38.0%" height="0.0px" align="right"><span style='font-family:; font-style:italic; font-size:medium; '><span style='font-style:normal; font-weight:normal; '></span></span></p><p align="center"><img src="./images-md/makemyhoaok%20logo.png" width="30.0%"></p>
 
-<p align="center"><img src="images-md/website-intro-animation.gif" width="100.0%"></p>
+<p align="center"><img src="images-md/website-intro-animation.gif" width="100.0%"></p><p align="center"><img src="./images-md/1-px.png" width="2.5%" height="0.0px" align="left"><img src="./images-md/1-px.png" width="2.5%" height="0.0px" align="right"><span style='font-family:; font-style:italic; font-size:medium; '><span style='font-style:normal; font-weight:normal; '></span></span></p>
 
 This site is for you and others living in and serving community
 associations to participate in developing a solution to the long-term
 conundrum: **How to increase competence of volunteer Community
 Association directors without discouraging volunteerism.**
 
+<<<<<<< Updated upstream
 <p align="left"><img src="./images-md/George%20headshot%202019.jpg" width="14.423076923077%" align="right"><img src="./images-md/1-px" width="15px" height="140.0px" align="right">I’m George Markle. I’ve been involved with homeowners associations for
+=======
+<figure><img src="./images-md/George%20headshot%202019.jpg" align="right" width="14.423076923077%"><img src="./images-md/1-px.png" width="14.4" height="0.0px" align="right"></figure>
+
+I’m George Markle. I’ve been involved with homeowners associations for
+>>>>>>> Stashed changes
 the past four decades and authored the *Homeowners Association
 Directors’ Survival Kit*.</p>
 
@@ -54,8 +59,7 @@ use each other’s help on all aspects, including sanity checks, legal
 review, awareness of potential unexpected barriers and a raft of other
 surprises certain to arise. It’ll be an adventure!
 
-<img src="./images-md/Switch%20building.jpg" width="45.0%" align="left"><br />
-<img src="./images-md/space.png" width="100%" height="1px"><br />
+<figure><img src="./images-md/Switch%20building.jpg" align="left" width="45.0%"><img src="./images-md/1-px.png" width="14.4" height="0.0px" align="left"></figure>
 
 ### Legislation won’t write itself
 
@@ -85,5 +89,4 @@ accommodate a law, just label your changes particular to that state.
 
 This is a great opportunity for you to help shape future legislation.
 
-<p align="center"><img src="./images-md/makemyhoaok%20logo.png" width="25.0%"></p><br />
-<img src="./images-md/space.png" width="100%" height="1px"><br />
+<p align="center"><img src="./images-md/1-px.png" width="43.75%" height="0.0px" align="left"><img src="./images-md/1-px.png" width="43.75%" height="0.0px" align="right"><span style='font-family:; font-style:italic; font-size:medium; '><span style='font-style:normal; font-weight:normal; '></span></span></p><p align="center"><img src="./images-md/makemyhoaok%20logo.png" width="25.0%"></p>
