@@ -1,6 +1,6 @@
 # <span style="font-style:normal; font-weight:normal; font-size:.5em; "></span>Abstract
 
-<p align="left"><img src="./images-md/1-px.png" width="27.5%" height="48.6px" align="left"><img src="./images-md/1-px.png" width="27.5%" height="48.6px" align="right"><span style='font-family:; font-style:italic; font-size:medium; '><span style='font-style:normal; font-weight:normal; '>Figure 1:</span> Pool of willing, qualified candidates varies with community size</span></p><p align="center"><img src="./images-md/availability-curve-500.png" width="50.0%"></p>
+<figure><img src="./images-md/availability-curve-500.png" align="right" width="50.0%"><img src="./images-md/1-px.png" width="14.4" height="48.6px" align="right"><figcaption style="margin-left:10%"><span style='font-family:; font-style:italic; font-size:medium; '><span style='font-style:normal; font-weight:normal; '>Figure 1:</span> Pool of willing, qualified candidates varies with community size</span><br><br></figcaption></figure>
 
 According to Community Associations Institute[^1], more than 74 million
 Americans reside in 347-thousand homeowners associations, condominium
@@ -395,13 +395,13 @@ items affecting dues.
 
 ### <span style="font-style:normal; font-weight:normal; font-size:.5em; "> 4.2.5</span>&nbsp;&nbsp;Increased membership for community association educators
 
-Should we succeed in having legislation passed to create the BCCAD,
-community association education organizations likely would see a
-substantial increase in membership. Those already at the forefront —
-CAI, ECHO, FCPP and CACM — particularly should benefit given their
-established prominence and reputations for excellence.
+<figure><img src="./images-md/logos-industry.png" align="right" width="60.0%"><img src="./images-md/1-px.png" width="14.4" height="0.0px" align="right"></figure>
 
-<p align="left"><img src="./images-md/1-px.png" width="9.5%" height="0.0px" align="left"><img src="./images-md/1-px.png" width="9.5%" height="0.0px" align="right"><span style='font-family:; font-style:italic; font-size:medium; '><span style='font-style:normal; font-weight:normal; '></span></span></p><p align="center"><img src="./images-md/logos-industry.png" width="90.0%"></p>
+Should we succeed in having legislation passed to create an organization
+such as the BCCAD, community association education organizations likely
+would see a substantial increase in membership. Those already at the
+forefront — CAI, ECHO, FCPP and CACM — particularly should benefit given
+their established prominence and reputations for excellence.
 
 ## <span style="font-style:normal; font-weight:normal; font-size:.5em; "> 4.3</span>&nbsp;&nbsp;Other benefits of the program
 
