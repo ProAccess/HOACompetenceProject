@@ -1,6 +1,6 @@
 # <span style="font-style:normal; font-weight:normal; font-size:.5em; "></span>Abstract
 
-<p align="left"><img src="./images-md/1-px.png" width="27.5%" height="48.6px" align="left"><img src="./images-md/1-px.png" width="27.5%" height="48.6px" align="right"><span style='font-family:; font-style:italic; font-size:medium; '><span style='font-style:normal; font-weight:normal; '>Figure 1:</span> Pool of willing, qualified candidates varies with community size</span></p><p align="center"><img src="./images-md/availability-curve-500.png" width="50.0%"></p>
+<figure><img src="./images-md/availability-curve-500.png" align="right" width="50.0%"><img src="./images-md/1-px.png" width="14.4" height="48.6px" align="right"><figcaption style="margin-left:10%"><span style='font-family:; font-style:italic; font-size:medium; '><span style='font-style:normal; font-weight:normal; '>Figure 1:</span> Pool of willing, qualified candidates varies with community size</span><br><br></figcaption></figure>
 
 According to Community Associations Institute[^1], more than 74 million
 Americans reside in 347-thousand homeowners associations, condominium
