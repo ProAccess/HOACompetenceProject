@@ -1,6 +1,6 @@
-<p align="center"><img src="./images-md/1-px.png" width="38.0%" height="0.0px" align="left"><img src="./images-md/1-px.png" width="38.0%" height="0.0px" align="right"><span style='font-family:; font-style:italic; font-size:medium; '><span style='font-style:normal; font-weight:normal; '></span></span></p><p align="center"><img src="./images-md/makemyhoaok%20logo.png" width="30.0%"></p>
-
-<p align="center"><img src="images-md/website-intro-animation.gif" width="100.0%"></p><p align="center"><img src="./images-md/1-px.png" width="2.5%" height="0.0px" align="left"><img src="./images-md/1-px.png" width="2.5%" height="0.0px" align="right"><span style='font-family:; font-style:italic; font-size:medium; '><span style='font-style:normal; font-weight:normal; '></span></span></p>
+\[\](images-md/HOACompetenceproject-logo-370.png{width=100%
+v_padding=.15in position=center cap_text_style=italic cap_position=below
+cap_width=95% cap_h\_position=center}
 
 This site is for you and others living in and serving community
 associations to participate in developing a solution to the long-term
@@ -67,8 +67,9 @@ Isn’t it time?
 
 # Contact
 
-Actually… the <a href="https://www.makemyhoaok.org">website</a> with its
-<a href="https://github.com/ProAccess/MakeMyHOAok/discussions">discussions
+Actually… the <a href="https://www.hoacompetenceproject.org">website</a>
+with its
+<a href="https://github.com/ProAccess/hoacompetenceproject/discussions">discussions
 forum</a> is a great way for participating in this effort. But if you’re
 comfortable using GitHub, that will expedite development, particularly
 if you are an attorney willing to help draft legislation. (I’m not an
@@ -85,4 +86,4 @@ accommodate a law, just label your changes particular to that state.
 
 This is a great opportunity for you to help shape future legislation.
 
-<p align="center"><img src="./images-md/1-px.png" width="43.75%" height="0.0px" align="left"><img src="./images-md/1-px.png" width="43.75%" height="0.0px" align="right"><span style='font-family:; font-style:italic; font-size:medium; '><span style='font-style:normal; font-weight:normal; '></span></span></p><p align="center"><img src="./images-md/makemyhoaok%20logo.png" width="25.0%"></p>
+<p align="center"><img src="./images-md/1-px.png" width="41.25%" height="0.0px" align="left"><img src="./images-md/1-px.png" width="41.25%" height="0.0px" align="right"><span style='font-family:; font-style:italic; font-size:medium; '><span style='font-style:normal; font-weight:normal; '></span></span></p><p align="center"><img src="./images-md/HOACompetenceproject-logo-370.png" width="35.0%"></p>
