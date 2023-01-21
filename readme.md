@@ -68,12 +68,12 @@ Actually… the
 [HOACompetenceProject.org](https://www.hoacompetenceproject.org) website
 with its [discussions
 forum](https://hoacompetenceproject.org/pages/forum.php) is a great way
-for participating in this effort. But if you’re comfortable using
-GitHub, that will expedite development, particularly if you are an
-attorney willing to help draft legislation. (I’m clearly not an attorney
-and while I’ve made a lay effort to adapt existing legislation for this,
-we need professional help. Please helpby drafting possible legislation
-to bring this program to reality.
+for participating in this effort. But if you’re comfortable using GitHub
+and forking the project, that will expedite development, particularly if
+you are an attorney willing to help draft legislation. (I’m clearly not
+an attorney and while I’ve made a lay effort to adapt existing
+legislation for this, we need professional help. Please help by drafting
+possible legislation to bring this program to reality.
 
 While this program was created with the California legislature in mind,
 Community Association owners, professionals and legislators across the
