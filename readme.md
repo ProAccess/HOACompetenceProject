@@ -1,6 +1,4 @@
-\[\](images-md/HOACompetenceproject-logo-370.png{width=100%
-v_padding=.15in position=center cap_text_style=italic cap_position=below
-cap_width=95% cap_h\_position=center}
+<p align="center"><img src="./images-md/1-px.png" width="14.0%" height="0.0px" align="left"><img src="./images-md/1-px.png" width="14.0%" height="0.0px" align="right"><span style='font-family:; font-style:italic; font-size:medium; '><span style='font-style:normal; font-weight:normal; '></span></span></p><p align="center"><img src="./images-md/HOACompetenceproject-full.png" width="90.0%"></p>
 
 This site is for you and others living in and serving community
 associations to participate in developing a solution to the long-term
@@ -41,49 +39,48 @@ marketplace. Get ready for an interesting ride.
 
 ### State of affairs
 
-Note, language in the examples is for California, one of the states
-leading the nation in community association legislation. But there is no
-reason a program like this couldn’t be adopted by any state. If you have
-suggestions particular to another state, just say so. We’ll create a new
-folder for your state so we can track how legislation would differ.
+Language in the examples is for California, one of the states leading
+the nation in community association legislation. But language can
+modified for any state. If you have suggestions particular to another
+state, just let us know by clicking *Contact* at the top of the [home
+page](https://hoacompetenceproject.org). We’ll create a new folder for
+your state.
 
 ### Heads up
 
-If two heads are better than one, opening this up to many contributors
-has the potential to craft a truly great and effective program. We can
-use each other’s help on all aspects, including sanity checks, legal
-review, awareness of potential unexpected barriers and a raft of other
-surprises certain to arise. It’ll be an adventure!
+Opening this project for many contributors has the potential to craft a
+truly great and effective program. We can use each other’s help on all
+aspects, including sanity checks, legal review, awareness of potential
+unexpected barriers and a raft of other surprises certain to arise.
+It’ll be an adventure!
 
 <figure><img src="./images-md/Switch%20building.jpg" align="left" width="45.0%"><img src="./images-md/1-px.png" width="14.4" height="0.0px" align="left"></figure>
 
 ### Legislation won’t write itself
 
-So please gander the plan and give me your comments and suggestions so
-we can make it better — before we begin working with our legislators to
+So please gander the plan and share your comments and suggestions so we
+can make it better — before we begin working with our legislators to
 implement.
-
-Isn’t it time?
 
 # Contact
 
-Actually… the <a href="https://www.hoacompetenceproject.org">website</a>
-with its
-<a href="https://github.com/ProAccess/hoacompetenceproject/discussions">discussions
-forum</a> is a great way for participating in this effort. But if you’re
-comfortable using GitHub, that will expedite development, particularly
-if you are an attorney willing to help draft legislation. (I’m not an
-attorney and while I’ve made a lay effort to adapt existing legislation
-for this, I’m sure it must seem pretty pathetic to an attorney
-experienced with crafting legislation. Please help(!) by helping to
-draft legislation to bring this program to reality.
+Actually… the
+[HOACompetenceProject.org](https://www.hoacompetenceproject.org) website
+with its [discussions
+forum](https://hoacompetenceproject.org/pages/forum.php) is a great way
+for participating in this effort. But if you’re comfortable using
+GitHub, that will expedite development, particularly if you are an
+attorney willing to help draft legislation. (I’m clearly not an attorney
+and while I’ve made a lay effort to adapt existing legislation for this,
+we need professional help. Please helpby drafting possible legislation
+to bring this program to reality.
 
 While this program was created with the California legislature in mind,
-Community Association citizens and professionals and legislators across
-the country can participate here in crafting a program that can be
-adapted for other states. If your state requires an adjustment to
-accommodate a law, just label your changes particular to that state.
+Community Association owners, professionals and legislators across the
+country can participate here in crafting a program that can be adapted
+for other states. If your state requires an adjustment to accommodate a
+law, just label your changes particular to that state.
 
 This is a great opportunity for you to help shape future legislation.
 
-<p align="center"><img src="./images-md/1-px.png" width="41.25%" height="0.0px" align="left"><img src="./images-md/1-px.png" width="41.25%" height="0.0px" align="right"><span style='font-family:; font-style:italic; font-size:medium; '><span style='font-style:normal; font-weight:normal; '></span></span></p><p align="center"><img src="./images-md/HOACompetenceproject-logo-370.png" width="35.0%"></p>
+<p align="center"><img src="./images-md/1-px.png" width="30.0%" height="0.0px" align="left"><img src="./images-md/1-px.png" width="30.0%" height="0.0px" align="right"><span style='font-family:; font-style:italic; font-size:medium; '><span style='font-style:normal; font-weight:normal; '></span></span></p><p align="center"><img src="./images-md/HOACompetenceproject-logo-370.png" width="50.0%"></p>
